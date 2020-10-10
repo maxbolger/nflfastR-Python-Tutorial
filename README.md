@@ -4,6 +4,7 @@
 [<img align="middle" alt="Python" width="75px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.fb.com%2Fwp-content%2Fuploads%2F2016%2F05%2F2000px-Python-logo-notext.svg_.png&f=1&nofb=1" />][Python]
 
 *click any icon to visit its respective page!*
+
 [nflfastR]: https://mrcaseb.github.io/nflfastR/
 [Python]: https://www.python.org/ 
 
