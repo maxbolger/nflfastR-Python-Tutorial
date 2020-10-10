@@ -31,7 +31,7 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
   - Basic viz with fantasy relevant data
   - Advanced viz using a function to show air yards distributions for any player
 
-## Resrouces used
+## Resources used
 
 [<img align="middle" alt="Python" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.fb.com%2Fwp-content%2Fuploads%2F2016%2F05%2F2000px-Python-logo-notext.svg_.png&f=1&nofb=1" />][Python]
 [<img align="middle" alt="pandas" width="150px" src="https://pandas.pydata.org/docs/_static/pandas.svg" />][pandas]
