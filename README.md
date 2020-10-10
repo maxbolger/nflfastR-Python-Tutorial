@@ -49,7 +49,7 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
 [colab]: https://colab.research.google.com/notebooks/intro.ipynb
 [nflfastR]: https://mrcaseb.github.io/nflfastR/
 
-## Special Thank Yous
+## Special thank yous
 
 [<img align="middle" alt="nflfastR" width="60px" src="https://mrcaseb.github.io/nflfastR/reference/figures/logo.png" />][nflfastR] 
 [<img align="middle" alt="OSF" width="60px" src="https://www.opensourcefootball.com/logo.png" />][OSF]
