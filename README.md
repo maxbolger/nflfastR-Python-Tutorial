@@ -70,6 +70,8 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
 [mrcaseb]: https://twitter.com/mrcaseb 
 [deryck]: https://twitter.com/DeryckG_
 [mnpykings]: https://twitter.com/mnpykings
+
+### [Click here](https://www.nflfastr.com/reference/fast_scraper.html) to visit the nflfastR documentation
     
 ### Thanks for checking out the tutorial, I hope you enjoy!
 
