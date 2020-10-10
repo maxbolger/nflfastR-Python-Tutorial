@@ -50,6 +50,7 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
 [nflfastR]: https://mrcaseb.github.io/nflfastR/
 
 ## Special thank yous
+*click an icon to visit its respective page!*
 
 [<img align="middle" alt="nflfastR" width="60px" src="https://mrcaseb.github.io/nflfastR/reference/figures/logo.png" />][nflfastR] 
 [<img align="middle" alt="OSF" width="60px" src="https://www.opensourcefootball.com/logo.png" />][OSF]
