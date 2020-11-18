@@ -58,8 +58,8 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
 [<img align="middle" alt="nflfastR" width="60px" src="https://mrcaseb.github.io/nflfastR/reference/figures/logo.png" />][nflfastR] 
 [<img align="middle" alt="OSF" width="60px" src="https://www.opensourcefootball.com/logo.png" />][OSF]
 [<img align="middle" alt="benbaldwin" width="60px" src="https://pbs.twimg.com/profile_images/1302946750488023041/KGd678va_400x400.jpg" />][benbaldwin]
-[<img align="middle" alt="mrcaseb" width="60px" src="https://pbs.twimg.com/profile_images/1245699172084441089/DQQeSich_400x400.jpg" />][mrcaseb]
-[<img align="middle" alt="deryck" width="60px" src="https://pbs.twimg.com/profile_images/1311704316177248256/W9Y2_jsM_400x400.jpg" />][deryck]
+[<img align="middle" alt="mrcaseb" width="60px" src="https://pbs.twimg.com/profile_images/1315622273496363009/cmoEfOPS_400x400.jpg" />][mrcaseb]
+[<img align="middle" alt="deryck" width="60px" src="https://pbs.twimg.com/profile_images/1324462152531337216/Kuh6CCTA_400x400.jpg" />][deryck]
 
 
 </br>
