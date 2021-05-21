@@ -5,7 +5,7 @@
 
 *click any icon to visit its respective page!*
 
-[nflfastR]: https://mrcaseb.github.io/nflfastR/
+[nflfastR]: https://www.nflfastr.com/
 [Python]: https://www.python.org/ 
 
 ## **[CLICK HERE](https://github.com/maxbolger/nflfastR-Python-Tutorial/blob/main/nflfastR_python_tutorial.ipynb) to visit the tutorial!**
@@ -64,7 +64,7 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
 
 </br>
 
-[nflfastR]: https://mrcaseb.github.io/nflfastR/
+[nflfastR]: https://www.nflfastr.com/
 [OSF]: https://www.opensourcefootball.com/
 [benbaldwin]: https://twitter.com/benbbaldwin 
 [mrcaseb]: https://twitter.com/mrcaseb 
