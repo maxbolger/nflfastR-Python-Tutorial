@@ -51,7 +51,7 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
 [pandas]: https://pandas.pydata.org/docs/
 [numpy]: https://numpy.org/
 [colab]: https://colab.research.google.com/notebooks/intro.ipynb
-[nflfastR]: https://mrcaseb.github.io/nflfastR/
+[nflfastR]: https://www.nflfastr.com/
 
 ## Special thank yous
 
