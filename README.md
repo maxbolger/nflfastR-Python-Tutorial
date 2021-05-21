@@ -55,7 +55,7 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
 
 ## Special thank yous
 
-[<img align="middle" alt="nflfastR" width="60px" src="https://mrcaseb.github.io/nflfastR/reference/figures/logo.png" />][nflfastR] 
+[<img align="middle" alt="nflfastR" width="60px" src="https://www.nflfastr.com/reference/figures/logo.png" />][nflfastR] 
 [<img align="middle" alt="OSF" width="60px" src="https://www.opensourcefootball.com/logo.png" />][OSF]
 [<img align="middle" alt="benbaldwin" width="60px" src="https://pbs.twimg.com/profile_images/1302946750488023041/KGd678va_400x400.jpg" />][benbaldwin]
 [<img align="middle" alt="mrcaseb" width="60px" src="https://pbs.twimg.com/profile_images/1315622273496363009/cmoEfOPS_400x400.jpg" />][mrcaseb]
