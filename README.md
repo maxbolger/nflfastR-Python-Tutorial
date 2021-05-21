@@ -43,7 +43,7 @@ This tutorial goes over how to work with nflfastR data in Python and concludes f
 [<img align="middle" alt="Seaborn" width="150px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />][Seaborn]
 [<img align="middle" alt="numpy" width="150px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F31%2FNumPy_logo_2020.svg%2F1024px-NumPy_logo_2020.svg.png&f=1&nofb=1" />][numpy]
 [<img align="middle" alt="Colab" width="60px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][colab]
-[<img align="middle" alt="nflfastR" width="50px" src="https://mrcaseb.github.io/nflfastR/reference/figures/logo.png" />][nflfastR] 
+[<img align="middle" alt="nflfastR" width="50px" src="https://www.nflfastr.com/reference/figures/logo.png" />][nflfastR] 
 
 [Python]: https://www.python.org/ 
 [Seaborn]: https://seaborn.pydata.org/#
